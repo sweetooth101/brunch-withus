@@ -1,0 +1,16 @@
+.menu{
+  display:flex;
+  flex-direction: row;
+  background-color: black;
+  height:3em;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.menu h1 {
+  color:white
+}
+
+.order-online{
+  background-color: black;
+}
